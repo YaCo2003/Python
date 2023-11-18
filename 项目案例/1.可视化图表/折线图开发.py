@@ -53,7 +53,7 @@ line.set_global_opts(
     title_opts=TitleOpts(title="2020年确诊图",pos_left="center",pos_bottom="1%")
 )
 # 调用render方法，生成图表
-line.render()
+line.render("折线图.html")
 #关闭文件
 f_us.close()
 f_jp.close()
