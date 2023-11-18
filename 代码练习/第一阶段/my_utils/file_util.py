@@ -33,4 +33,4 @@ def append_to_file(file_name, data):
 
 if __name__ == '__main__':
     # print_file_info("D:/代码仓库/Python/代码练习/my_utils/test.txt")
-    append_to_file("D:/代码仓库/Python/代码练习/my_utils/test1.txt", "去死吧，我才不喜欢你！！！")
+    append_to_file("/代码练习/第一阶段/my_utils/test1.txt", "去死吧，我才不喜欢你！！！")
